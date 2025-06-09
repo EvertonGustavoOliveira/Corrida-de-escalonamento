@@ -2,7 +2,7 @@
 
 Este é um jogo interativo de apostas que une o universo de Rocket League com conceitos de escalonamento de processos. Sua missão é simples: com 10 fichas iniciais, aposte em qual algoritmo será mais eficiente em 3 rodadas, cada uma ocorrendo em uma arena diferente. Use sua intuição, conhecimento e um pouco de sorte para sair vitorioso!
 
----
+-----------------------------------------------------
 
 ## Como Rodar o Jogo
 
