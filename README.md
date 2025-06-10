@@ -87,6 +87,7 @@ A IA foi utilizada principalmente para:
 
 - Sugerir a criação da classe `Processo` para organizar melhor o código.
 - Recomendação do uso das bibliotecas `time` e `os` para simulação e visualização do progresso e demonstração de como implementar.
+- Tirar duvidas se implementações realizadas no codigo estão corretas.
 - Solucionar de problemas relacionados ao uso de objetos compartilhados entre algoritmos. Recomendou a biblioteca `copy` e o uso de `deepcopy()` para garantir que os processos fossem executados de forma independente em cada algoritmo. Foi pedido tambem a implementação dessas bibliotecas na função corrida round_robin para faze-la funcionar.
 
 ---
